@@ -3,12 +3,14 @@
 - [@cem-1](https://github.com/cem-1)
 
 - [@ubaidh](https://github.com/ubaidh)
+- 
 - [@DarwinsCorn](https://github.com/DarwinsCorn)
--[@bustillos83] (https://github.com/bustillos83)
+- 
+- [@bustillos83](https://github.com/bustillos83)
 
 - [@SHA888](https://github.com/SHA888)
-
-- [@jalonghurst] (https://github.com/jalonghurst)
+- 
+- [@jalonghurst](https://github.com/jalonghurst)
 
 - [@jalonghurst](https://github.com/jalonghurst)
 
@@ -18,7 +20,7 @@
 
   -[@fabioauroradev](https://github.com/FabioAurora)
 
-- [@joancodes] (https://github.com/joancodes)
+- [@joancodes](https://github.com/joancodes)
 
 - [@fabioauroradev](https://github.com/FabioAurora)
 
@@ -66,7 +68,7 @@
 
 - [@Amrindra](https://github.com/Amrindra)
 
-- [@countOfMonteCristo13] (https://github.com/countOfMonteCristo13)
+- [@countOfMonteCristo13](https://github.com/countOfMonteCristo13)
 
 - [@Arioum](https://github.com/Arioum)
 
@@ -147,19 +149,31 @@
 
 -[@q-rault](https://github.com/q-rault)
 
--[@leul1212] (https://github.com/leul1212)
+-[@leul1212](https://github.com/leul1212)
 
 -[@Radiostranger](https://github.com/Radiostranger)
 
--[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+-[@q-rault](https://github.com/q-rault) 
 
--[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+-[@leul1212](https://github.com/leul1212) 
 
--[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+-[@Radiostranger](https://github.com/Radiostranger)
+
+-[@q-rault](https://github.com/q-rault) 
+
+-[@leul1212](https://github.com/leul1212) 
+
+-[@Radiostranger](https://github.com/Radiostranger)
+
+-[@q-rault](https://github.com/q-rault) 
+
+-[@leul1212](https://github.com/leul1212) 
+
+[@Radiostranger](https://github.com/Radiostranger)
 
 -[@q-rault](https://github.com/q-rault)
 
--[@leul1212] (https://github.com/leul1212)
+-[@leul1212](https://github.com/leul1212)
 
 -[@Radiostranger](https://github.com/Radiostranger)
 
@@ -181,11 +195,17 @@
 
 -[@pinatic](https://github.com/Pinatic79)
 
--[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
+-[@dkembre](https://github.com/dkembre) 
 
--[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
+-[@pinatic](https://github.com/Pinatic79)
 
--[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
+-[@dkembre](https://github.com/dkembre) 
+
+-[@pinatic](https://github.com/Pinatic79)
+
+-[@dkembre](https://github.com/dkembre) 
+
+-[@pinatic](https://github.com/Pinatic79)
 
 -[@dkembre](https://github.com/dkembre)
 
@@ -199,7 +219,9 @@
 
 -[@K-Wiczling](https://github.com/K-Wiczling/)
 
--[@dmdbilal](https://github.com/dmdbilal/) -[@patrycjaslizszpytma](https://github.com/patrycjaslizszpytma)
+-[@dmdbilal](https://github.com/dmdbilal/) 
+
+-[@patrycjaslizszpytma](https://github.com/patrycjaslizszpytma)
 
 -[@Lazar Stojanović](https://github.com/Coolbylaki)
 
@@ -435,7 +457,7 @@
 
 - [@pradytpk](https://github.com/pradytpk)
 
-- [@Taruna-Rawat)](https://github.com/Taruna-Rawat
+- [@Taruna-Rawat](https://github.com/Taruna-Rawat)
 
 - [@rgreenfield](https://github.com/rgreenfield)
 
